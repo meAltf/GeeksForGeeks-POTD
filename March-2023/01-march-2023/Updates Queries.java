@@ -1,5 +1,9 @@
 /******************************************************************************************************************************************************
 
+--------------------------
+Level-Medium
+--------------------------
+
 You are given an array of n elements, initially all a[i] = 0. Q queries need to be performed. Each query contains three integers l, r, and x  and
 you need to change all a[i] to (a[i] | x) for all l ≤ i ≤ r.
 
