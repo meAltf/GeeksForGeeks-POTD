@@ -55,6 +55,6 @@ class Solution {
             ans.add(set.size() - temp[i]);
             set.add(A[i]);
         }
-        return ans;
+        return ans;  
     }
 }
